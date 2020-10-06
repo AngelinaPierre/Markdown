@@ -3,7 +3,7 @@
 
 Um ou dois paragrafos sobre seu projeto e o que ele faz.
 
-![](sk.png)
+![sk](sk.png)
 
 ## Instalação
 
