@@ -4,7 +4,7 @@
 Um ou dois paragrafos sobre seu projeto e o que ele faz.
 
 
-![sk](sk.png)
+
 
 ## Instalação
 
