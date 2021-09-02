@@ -3,7 +3,7 @@
 
 Um ou dois paragrafos sobre seu projeto e o que ele faz.
 
-
+![image](https://github.com/AngelinaPierre/Markdown/blob/master/sk.PNG)
 
 
 ## Instalação
